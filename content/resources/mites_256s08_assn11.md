@@ -2,8 +2,13 @@
 content_type: resource
 description: This is a resource file that contains information regarding how superpowers,
   populations, and globalization will change the way you live and work.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-256-the-coming-years-spring-2008/e4f04127dcc5c96aac77577421493edc_MITES_256S08_assn11.pdf
+file: /media/courses/es-256-the-coming-years-spring-2008/e4f04127dcc5c96aac77577421493edc_MITES_256S08_assn11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: How Superpowers, Populations, and Globalization will Change the Way You Live
   and Work
