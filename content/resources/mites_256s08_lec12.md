@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3413ce20-1eea-674b-4218-ed8b46b80614
 resourcetype: Document
 title: 'Lecture 12: Describing the Future'
 uid: 53e926ee-0963-9543-1df7-81aac68340f5

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3413ce20-1eea-674b-4218-ed8b46b80614
 resourcetype: Document
 title: 'Lecture 3: Historigraphic Theories'
 uid: 30840530-e3ea-ce63-76f7-767531eb65b0

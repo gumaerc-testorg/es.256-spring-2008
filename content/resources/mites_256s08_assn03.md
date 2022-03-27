@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3413ce20-1eea-674b-4218-ed8b46b80614
 resourcetype: Document
 title: Questions from the Fourth Turning
 uid: 6e6db4d0-4e44-61f3-f96e-527f5ec09761

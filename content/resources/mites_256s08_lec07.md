@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3413ce20-1eea-674b-4218-ed8b46b80614
 resourcetype: Document
 title: 'Lecture 7: World Changing, Revelations, and Revolutions'
 uid: f2354aab-0db1-aeea-4a9a-04c2e9a782af

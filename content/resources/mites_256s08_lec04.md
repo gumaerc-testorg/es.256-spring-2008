@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3413ce20-1eea-674b-4218-ed8b46b80614
 resourcetype: Document
 title: 'Lecture 4: Catastrophic Change, Power Laws, and Fractals'
 uid: bce73332-5af7-7ba1-5d0a-044c86e87f44

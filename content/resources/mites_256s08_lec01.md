@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3413ce20-1eea-674b-4218-ed8b46b80614
 resourcetype: Document
 title: 'Lecture 1: Introduction and the Recent Past'
 uid: 5e65ee5d-1029-fa9a-3c96-86123260a88a
