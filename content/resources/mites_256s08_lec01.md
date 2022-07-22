@@ -5,6 +5,7 @@ file: /courses/es-256-the-coming-years-spring-2008/5e65ee5d1029fa9a3c9686123260a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 1: Introduction and the Recent Past'
 uid: 5e65ee5d-1029-fa9a-3c96-86123260a88a
 ---
 This is a resource file that contains information regarding lecture 1.
-

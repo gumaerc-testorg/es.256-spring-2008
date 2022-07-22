@@ -6,6 +6,7 @@ file: /courses/es-256-the-coming-years-spring-2008/e4f04127dcc5c96aac77577421493
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: How Superpowers, Populations, and Globalization will Change the Way You L
 uid: e4f04127-dcc5-c96a-ac77-577421493edc
 ---
 This is a resource file that contains information regarding how superpowers, populations, and globalization will change the way you live and work.
-

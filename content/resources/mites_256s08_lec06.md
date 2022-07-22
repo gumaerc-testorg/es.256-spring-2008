@@ -5,6 +5,7 @@ file: /courses/es-256-the-coming-years-spring-2008/e29f28d2254fa55e12767cef7bb36
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 6: The Singularity'
 uid: e29f28d2-254f-a55e-1276-7cef7bb36ac8
 ---
 This is a resource file that contains information regarding lecture 6.
-
