@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding lecture 2.
 file: /courses/es-256-the-coming-years-spring-2008/cc7e0f285d1b410fe8b5cfe1046c031d_MITES_256S08_Lec02.pdf
+file_size: 147368
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
