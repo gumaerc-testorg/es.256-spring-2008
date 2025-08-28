@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding lecture 4.
-file: /courses/es-256-the-coming-years-spring-2008/bce733325af77ba15d0a044c86e87f44_MITES_256S08_Lec04.pdf
+file: /ol-ocw-studio-app/courses/es-256-the-coming-years-spring-2008/bce733325af77ba15d0a044c86e87f44_MITES_256S08_Lec04.pdf
 file_size: 136809
 file_type: application/pdf
 learning_resource_types:
